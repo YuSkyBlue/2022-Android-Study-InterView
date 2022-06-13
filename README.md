@@ -22,4 +22,44 @@
 <li>4xx : (Client): 요청 오류 => Retrofit 사용하여 서버에 요청을 보낼때 중복된 아이디를 삽입/ 없는 아이디를 불러올 경우 발생 </li>
 <li>5xx : 서버오류 => 서버에게 요청을 보냈자만 서버에서 오류가 발생하여 햐굘허자 못하여 보내는 오류 requsetCode </li>
 
-<h
+
+. 앱 개발자 공통 기술 질문: 5개 이상 잘 대답할 수 있어야 함
+
+• PNG와 JPG의 차이점은?
+
+• Dynamic Programming이란?
+
+• Virtual Memory란?
+
+• Garbage Collection이란?
+
+• Cache란?
+
+• Database Index 추가의 장단점은?
+
+• 비대칭 암호화란?
+
+• HDD, SSD, DRAM 각각의 성능은?
+
+• GIT의 장점은?
+
+
+D. 안드로이드 개발자 기술 질문: 5개 이상 잘 대답할 수 있어야 함
+
+• DIP란?
+
+• ConstraintLayout의 장점은?
+
+• Activity 생명주기는?
+
+• WeakReference란?
+
+• Parcelable이란?
+
+• 고해상도 이미지의 로딩 방법은?
+
+• Looper란?
+
+• MultiDex란?
+
+• Proguard의 원리는?
