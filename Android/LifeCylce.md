@@ -3,9 +3,9 @@
 > 작성자 whathe-downtown
 > 오류/수정 문의 dbcjdrb1997@gmail.com
 ## 🍎Activitiy
-- 화면에 보여지는 부분의 기능을 담당함
+- 에 보여지는 부분의 기능을 담당함
 <p>Activitiy는 한 앱이 다른 앱을 호출할 때 호출 앱은 다른 앱을 전체적으로 호출 하는것이 아니라 다른 앱의 활동을 호출합니다.</p>
-1. `onCreate` : `Activity`가 **최초** 생성되고, 필요한 작업의 초기화를 수행하기 위해 호출됨
+
 ## 🍎LifeCycle
 ![스크린샷 2022-06-24 오후 2 25 18](https://user-images.githubusercontent.com/70245821/175468174-ef797a1f-4ae1-40a6-aea6-0a74fba7ab4a.png)
 
@@ -18,3 +18,6 @@
 onCreate() -> onStart() -> onResume() -> onPause() -> onStop() -> onRestrart() or onDesotry()<br>
 
 ### 🍏onCreate()
+- 시스템 활동을 생성할 때 실행되는 것 , 필수적인것
+- 활동의 전체 수명 주기 동안 한 번만 발생한다
+- savedInstanceState 매개변수를 수신 
