@@ -3,7 +3,7 @@
 > 작성자 whathe-downtown
 > 오류/수정 문의 dbcjdrb1997@gmail.com
 ## 🍎Activitiy
-- 에 보여지는 부분의 기능을 담당함
+- 화면에 보여지는 부분의 기능을 담당함
 <p>Activitiy는 한 앱이 다른 앱을 호출할 때 호출 앱은 다른 앱을 전체적으로 호출 하는것이 아니라 다른 앱의 활동을 호출합니다.</p>
 
 ## 🍎LifeCycle
