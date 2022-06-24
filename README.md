@@ -25,7 +25,8 @@
 # 🍎안드로이드 질문
 ###  🍏<a href="https://github.com/whathe-downtown/2022-Android-Study-InterView/blob/main/Android/LifeCylce.md">안드로이드 라이프 사이클에 대해서 설명하시오 </a>
 . 앱 개발자 공통 기술 질문: 5개 이상 잘 대답할 수 있어야 함
-
+### 🍏 안드로이드 4대 컴포넌트 및 특성
+### 🍏 안드로이드 4대 컴포넌트 및 특성
 • PNG와 JPG의 차이점은?
 
 • Dynamic Programming이란?
