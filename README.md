@@ -22,7 +22,8 @@
 <li>4xx : (Client): 요청 오류 => Retrofit 사용하여 서버에 요청을 보낼때 중복된 아이디를 삽입/ 없는 아이디를 불러올 경우 발생 </li>
 <li>5xx : 서버오류 => 서버에게 요청을 보냈자만 서버에서 오류가 발생하여 햐굘허자 못하여 보내는 오류 requsetCode </li>
 
-
+# 🍎안드로이드 질문
+###  🍏<a href="https://github.com/whathe-downtown/2022-Android-Study-InterView/blob/main/Android/LifeCylce.md">안드로이드 라이프 사이클에 대해서 설명하시오 </a>
 . 앱 개발자 공통 기술 질문: 5개 이상 잘 대답할 수 있어야 함
 
 • PNG와 JPG의 차이점은?
